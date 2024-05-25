@@ -1,1 +1,4 @@
 openai-functions-calling/.env
+openai-functions-calling/credentials.json
+openai-functions-calling/token.pickle
+openai-functions-calling/__pycache__/gmail_functions.cpython-311.pyc
